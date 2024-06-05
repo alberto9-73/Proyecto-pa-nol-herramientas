@@ -1,0 +1,30 @@
+#contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     
+  
+}
+
+*{
+	font-family: arial black;
+	background: #CCCC99;
+	color: #333333;
+}
+
+.inv{
+    padding-top: 5%;
+padding-left:auto;
+padding-right: auto;
+
+}
+.fondo{
+    
+    background-color: #CCCC99 ;
+}
+.tabla{
+ padding-left: 20%;
+ padding-right: 20%;
+ 
+     
+}
