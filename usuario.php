@@ -15,7 +15,7 @@
      
         <a href="buscar_herramienta.php" class="btn btn-dark">Buscar</a>
         
-        <a href="realizar_transaccion.php" class="btn btn-dark">Realizar transaccion</a>
+        <a href="transaccion.php" class="btn btn-dark">Realizar transaccion</a>
         
     </div>
     <br>
